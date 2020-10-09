@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Robotics, Oregon State University, 2025 (expected)
+* M.S. in Computer Science, University of Arkansas, 2017
+* B.S. in Computer Engineering, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2017 - July 2020: Senior Software Engineering
+  * HERE Technologies
+  * Developed algorithms and software infrastructure for building HD maps that serve as an integral part of self-driving cars.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Research Intern
+  * NASA Langley
+  * Researched techniques for computing navigational geofences for low Altitude flight operations
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2015 - May 2017: Graduate Teaching Assistant
+  * University of Arkansas
+  * Teaching Assistant for CS Courses: Intro to Programming, Computer Organization, Artificial Intelligence
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

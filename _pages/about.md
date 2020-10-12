@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /index.html
-  - /index
 ---
-
-{% include base_path %}
 
 I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research interests are human robot interaction and distributed artificial intelligence. 
 

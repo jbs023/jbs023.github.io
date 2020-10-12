@@ -43,5 +43,5 @@ Publications
   {% endfor %}</ul>
 
 Contact
-------
+======
 Email: bhagatsj < at > oregonstate < dot > edu

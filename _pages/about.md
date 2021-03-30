@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research interests are human robot interaction and distributed artificial intelligence. 
 
-Currently, I am focused on investigating techniques for modelling honeybee behaviors in large unmanned systems.
+Currently, I am investigating techniques to model the defensive capabilities of honeybees for autonomous swarm agents and working on ways to improve the transparency of human-swarm interaction in colony-based swarms.
 
 Education
 ======

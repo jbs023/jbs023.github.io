@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research interests are human robot interaction and distributed artificial intelligence. 
+I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research interests are human robot interaction and multi-agent systems.
 
-Currently, I am investigating techniques to model the defensive capabilities of honeybees for autonomous swarm agents and working on ways to improve the transparency of human-swarm interaction in colony-based swarms.
+Currently, I am developing ways to improve the performance of human-robot teams by adapting a robot's level of autonomy. I am also working on algorithms to improve human interactions with colony-based swarms and to identify adversarial intruders into colony-based swarms.
+
 
 Education
 ======
@@ -26,7 +27,7 @@ Work experience
 
 * Summer 2016: Research Intern
   * NASA Langley
-  * Researched techniques for computing navigational geofences for low Altitude flight operations
+  * Researched techniques for computing navigational geofences for low altitude flight operations
   
 * Aug 2015 - May 2017: Graduate Teaching Assistant
   * University of Arkansas

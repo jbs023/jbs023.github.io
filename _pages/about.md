@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research interests are human robot interaction and multi-agent systems.
-
-Currently, I am developing ways to improve the performance of human-robot teams by adapting a robot's level of autonomy. I am also working on algorithms to improve human interactions with colony-based swarms and to identify adversarial intruders into colony-based swarms.
+I am a Robotics PhD student at Oregon State University, where I work under Julie Adams in the [Human Machine Teaming Lab (HMTL)](http://research.engr.oregonstate.edu/hmtl/). My research lie an the intersection of human-robot interaction, multi-agent systems, and machine learning.
 
 
 Education

@@ -13,7 +13,7 @@ I am a Robotics PhD student at Oregon State University, where I work under Julie
 
 Education
 ======
-* Ph.D in Robotics and Artificial Intelligence, Oregon State University, 2025 (expected)
+* Ph.D in Robotics and Artificial Intelligence, Oregon State University, 2024 (expected)
 * M.S. in Computer Science, University of Arkansas, 2017
 * B.S. in Computer Engineering, Univesity of Arkansas, 2015
 

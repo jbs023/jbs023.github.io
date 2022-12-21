@@ -35,12 +35,6 @@ Work experience
   * University of Arkansas
   * Teaching Assistant for CS Courses: Intro to Programming, Computer Organization, Artificial Intelligence
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
-
 Contact
 ======
 Email: bhagatsj < at > oregonstate < dot > edu

@@ -25,11 +25,11 @@ Work experience
   
 * July 2017 - July 2020: Senior Software Engineer
   * HERE Technologies
-  * Developed algorithms and software infrastructure for building HD maps that serve as an integral part of self-driving cars.
+  * Developed algorithms and software infrastructure for building HD maps for self-driving cars.
 
 * Summer 2016: Research Intern
   * NASA Langley
-  * Developed techniques for computing navigational geofences for low altitude flight operations
+  * Research focused on computing navigational geofences for low altitude flight operations
   
 * Aug 2015 - May 2017: Graduate Teaching Assistant
   * University of Arkansas

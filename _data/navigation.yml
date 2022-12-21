@@ -2,3 +2,5 @@
 main:
   - title: "CV"
     url: files/cv.pdf 
+  - title: "Publications"
+    url: publications/

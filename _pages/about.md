@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * July 2020 - Present: Graduate Research Assistant
-  * Oregon State University, [HMTLab](http://research.engr.oregonstate.edu/hmtl/)
+  * Oregon State University
   * Developing and evaluating systems to improve human-robot teaming
   
 * July 2017 - July 2020: Senior Software Engineer

@@ -29,7 +29,7 @@ Work experience
 
 * Summer 2016: Research Intern
   * NASA Langley
-  * Derived bavigational geofences for low altitude UAV operations
+  * Derived navigational geofences for low altitude UAV operations
   
 * Aug 2015 - May 2017: Graduate Teaching Assistant
   * University of Arkansas

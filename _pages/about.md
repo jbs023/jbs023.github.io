@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics PhD student at Oregon State University, where I work under Dr. Julie A. Adams in the [Human Machine Teaming Lab (HMTLab)](http://research.engr.oregonstate.edu/hmtl/). My research interests lie at the intersection of human-robot interaction, machine learning, and multi-robot systems.
+I am Robotics Researcher who recently graduated from Oregon State University with a PhD in Robotics & AI. My research interests lie at the intersection of human-robot interaction, machine learning, and multi-robot systems.
 
 
 Education
 ======
-* Ph.D in Robotics and Artificial Intelligence, Oregon State University, 2024 (expected)
+* Ph.D in Robotics and Artificial Intelligence, Oregon State University, 2024
 * M.S. in Computer Science, University of Arkansas, 2017
 * B.S. in Computer Engineering, Univesity of Arkansas, 2015
 
 Work experience
 ======
-* July 2020 - Present: Graduate Research Assistant
+* September 2020 - June 2024: Graduate Research Assistant
   * Oregon State University
-  * Developing robust machine learning methodologies and real time human state estimation systems for real world human-robot teaming.
+  * Developing robust machine learning methodologies and real time human state estimation systems for real world human-robot teams.
   
 * July 2017 - July 2020: Senior Software Engineer
   * HERE Technologies

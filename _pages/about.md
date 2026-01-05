@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Robotics Researcher who recently graduated from Oregon State University with a PhD in Robotics & AI. My research interests lie at the intersection of human-robot interaction, machine learning, and multi-robot systems.
+I am Research Scientist with PhDs in Robotics and AI from Oregon State University. My interests lie at the intersection of human-robot interaction, machine learning, and multi-robot systems.
 
 
 Education
@@ -19,6 +19,14 @@ Education
 
 Work experience
 ======
+* January 2026 - : Senior Research Scientist
+  * Systems Technology & Research
+  * Researching AI & ML techniques to develop advanced autonomy capabilities.
+
+* September 2024 - December 2025: AI & ML Lead Engineer
+  * Peraton
+  * Technical lead on R&D projects focused on distributed ML pipelines and simulation frameworks.
+
 * September 2020 - June 2024: Graduate Research Assistant
   * Oregon State University
   * Developing robust machine learning methodologies and real time human state estimation systems for real world human-robot teams.
@@ -34,7 +42,3 @@ Work experience
 * Aug 2015 - May 2017: Graduate Teaching Assistant
   * University of Arkansas
   * Courses: Intro to Programming, Computer Organization, Artificial Intelligence
-
-Contact
-======
-Email: bhagatsj < at > oregonstate < dot > edu

@@ -82,11 +82,11 @@ google_analytics: G-D837ET5WEW
 author:
   name             : "Josh Bhagat Smith"
   avatar           : "profile.png"
-  bio              : "Robotics PhD Student"
-  location         : "Corvallis, OR"
+  bio              : "Research Scientist & Roboticist"
+  location         : "Washington, DC"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=xHLDaNsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=qd4Y1-QAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : jbs023
+  github           :
   google_plus      :
   keybase          :
   instagram        :
